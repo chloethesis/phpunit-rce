@@ -4,7 +4,7 @@ LARAVEL PHPUNIT RCE PHP TOOLS
   </samp>
 </h1>
 
-<center><a href="about:blank#blocked"><img alt="Preview" src="/img/preview.jpg"></a></center>
+<center><a href="javascript:void(0)"><img alt="Preview" src="/img/preview.png"></a></center>
 
 * Prepare your site's domain/hosting, or you can also install <a href="https://www.apachefriends.org/download.html">xampp</a> on your windows to run it.
 * Then run the program.
